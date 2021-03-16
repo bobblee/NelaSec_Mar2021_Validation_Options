@@ -1,0 +1,78 @@
+[
+    {
+    "name" : "Easy Chicken Curry",
+    "link" : "https://cooking.nytimes.com/recipes/6393-easy-chicken-curry",
+    "yield" : "4 servings",
+    "time" : "30 minutes",
+    "steps": [
+        {"step" : 1, "directions" : "Place oil in a large skillet; turn heat to medium-high. A minute later, add onions, along with a generous pinch of salt and some pepper. Cook, stirring occasionally, until onions are very soft and almost falling apart, 15 minutes or more. Stir in curry powder, and cook, stirring, for another minute or so."},
+        {"step" : 2, "directions" : "Add coconut milk, and cook until it thickens, about 2 minutes, stirring occasionally. Add chicken, and stir, then cook until done, 3 to 6 minutes. (If you use shrimp, keep in mind that it cooks a little faster than chicken; if you are in doubt about whether chicken is done, cut into a piece.)"},
+        {"step" : 3, "directions" : "Add tomato, and cook another minute; adjust seasonings as necessary. Serve over rice, garnished with basil or mint, if desired."}
+    ],
+    "ingredients" : [
+        {"measurement" : "tbsp", "amount" : 2, "item" : "Canola", "extras" : "corn or other neutral oil"},
+        {"measurement" : "large", "amount" : 1, "item" : "White Onion", "extras" : "peeled and sliced"},
+        {"measurement" : "taste", "amount" : 1, "item" : "Salt"},
+        {"measurement" : "taste", "amount" : 1, "item" : "Pepper", "extras" : "freshly ground"},
+        {"measurement" : "taste", "amount" : 1, "item" : "Mint", "extras" : "garnish"},
+        {"measurement" : "taste", "amount" : 1, "item" : "Basil", "extras" : "Chopped, garnish"},
+        {"measurement" : "tsp", "amount" : 2, "item" : "Curry Powder"},
+        {"measurement" : "can", "amount" : 1, "item" : "Unsweetened Coconut Milk", "extras" : "1 1/2 to 2 cups"},
+        {"measurement" : "cup", "amount" : 1, "item" : "Tomato", "extras" : "peeled, seeded and diced, canned is fine; cut up and drain before using"},
+        {"measurement" : "lbs", "amount" : 1.5, "item" : "Chicken", "extras" : "boneless chicken or peeled shrimp, cut into 3/4- to 1-inch chunks"}
+    ]
+},
+{
+    "name" : "Easy Cashew Chicken",
+    "link" : "https://www.ketoconnect.net/easy-cashew-chicken/",
+    "yield" : "3 servings",
+    "time" : "25 minutes",
+    "steps": [
+        {"step" : 1, "directions" : "Heat a pan over low heat and toast the cashews for 8 minutes or until they start to lightly brown and become fragrant. Remove and set aside."},
+        {"step" : 2, "directions" : "Dice chicken thighs into 1 inch chunks. Cut onion and pepper into equally large chunks."},
+        {"step" : 3, "directions" : "Increase heat to high and add coconut oil to pan."},
+        {"step" : 4, "directions" : "Once oil is up to temperature, add in the chicken thighs and allow them to cook through(about 5 minutes)."},
+        {"step" : 5, "directions" : "Once the chicken is fully cooked. Add in the pepper, onions, garlic, chili garlic sauce and seasonings(ginger, salt, pepper). Allow to cook on high for 2-3 minutes."},
+        {"step" : 6, "directions" : "Add liquid aminos, rice wine vinegar, and cashews. Cook on high and allow the liquid to reduce down until it is a sticky consistency, There should not be excess liquid in the pan upon completing cooking."},
+        {"step" : 7, "directions" : "Serve in a bowl, top with sesame seeds and drizzle with sesame oil. Enjoy!"}
+    ],
+    "ingredients" : [
+        {"measurement" : "lbs", "amount" : 1, "item" : "Chicken", "extras" : "Bonless, skinless, thighs"},
+        {"measurement" : "tbsp", "amount" : 2, "item" : "Cocunut oil", "extras" : "Bonless, skinless, thighs"},
+        {"measurement" : "cup", "amount" : 0.25, "item" : "Cashews"},
+        {"measurement" : "med", "amount" : 0.5, "item" : "Green Bell Pepper"},
+        {"measurement" : "tsp", "amount" : 0.5, "item" : "Ground Ginger"},
+        {"measurement" : "tbsp", "amount" : 1, "item" : "Rice Wine Vinegar"},
+        {"measurement" : "tbsp", "amount" : 1.5, "item" : "Liquid Aminos"},
+        {"measurement" : "tbsp", "amount" : 0.5, "item" : "Chili Garlic Sauce"},
+        {"measurement" : "tbsp", "amount" : 1, "item" : "Garlic", "extras" : "minced"},
+        {"measurement" : "tbsp", "amount" : 1, "item" : "Sesame Oil"},
+        {"measurement" : "tbsp", "amount" : 1, "item" : "Sesame Seeds"},
+        {"measurement" : "tbsp", "amount" : 1, "item" : "Green Onions"},
+        {"measurement" : "med", "amount" : 0.25, "item" : "White Onion"},
+        {"measurement" : "taste", "amount" : 1, "item" : "Salt"},
+        {"measurement" : "taste", "amount" : 1, "item" : "Pepper", "extras" : "freshly ground"}
+    ]
+},
+{
+    "name" : "Cheesy Kielbasa & Tortellini",
+    "link" : "https://donnahup.com/cheesy-kielbasa-tortellini/",
+    "steps": [
+        {"step" : 0, "directions" : "Cook onion until soft, add kielbasa and cook until browned."},
+        {"step" : 1, "directions" : "Add chicken broth, tortellini, tomatoes, salt and pepper and bring to a boil."},
+        {"step" : 2, "directions" : "Turn heat down to low, cover and simmer for about 15 minutes."},
+        {"step" : 3, "directions" : "Remove from heat and add cheeses."}
+    ],
+    "ingredients" : [
+        {"measurement" : "lbs", "amount" : 1, "item" : "Kielbasa"},
+        {"measurement" : "cup", "amount" : 0.5, "item" : "Onion", "extras" : "diced"},
+        {"measurement" : "oz", "amount" : 20, "item" : "Tortellini","extras":"package of refrigerated"},
+        {"measurement" : "oz", "amount" : 28, "item" : "Tomatoes","extras":"diced from can"},
+        {"measurement" : "cup", "amount" : 1, "item" : "Chicken Broth"},
+        {"measurement" : "tbsp", "amount" : 2, "item" : "Cream Cheese"},
+        {"measurement" : "cup", "amount" : 2, "item" : "Cheese","extras" : "Shredded cheese of choice to top the dish"},
+        {"measurement" : "taste", "amount" : 1, "item" : "Salt"},
+        {"measurement" : "taste", "amount" : 1, "item" : "Pepper", "extras" : "freshly ground"}
+    ]
+}
+]

@@ -1,0 +1,23 @@
+{
+"name" : "Easy Chicken Curry",
+"link" : "https://cooking.nytimes.com/recipes/6393-easy-chicken-curry",
+"yield" : "4 servings",
+"time" : "30 minutes",
+"steps": [
+    {"step" : 1, "directions" : "Place oil in a large skillet; turn heat to medium-high. A minute later, add onions, along with a generous pinch of salt and some pepper. Cook, stirring occasionally, until onions are very soft and almost falling apart, 15 minutes or more. Stir in curry powder, and cook, stirring, for another minute or so."},
+    {"step" : 2, "directions" : "Add coconut milk, and cook until it thickens, about 2 minutes, stirring occasionally. Add chicken, and stir, then cook until done, 3 to 6 minutes. (If you use shrimp, keep in mind that it cooks a little faster than chicken; if you are in doubt about whether chicken is done, cut into a piece.)"},
+    {"step" : 3, "directions" : "Add tomato, and cook another minute; adjust seasonings as necessary. Serve over rice, garnished with basil or mint, if desired."}
+],
+"ingredients" : [
+    {"measurement" : "tbsp", "amount" : 2, "item" : "Canola", "extras" : "corn or other neutral oil"},
+    {"measurement" : "large", "amount" : 1, "item" : "White Onion", "extras" : "peeled and sliced"},
+    {"measurement" : "taste", "amount" : 1, "item" : "Salt"},
+    {"measurement" : "taste", "amount" : 1, "item" : "Pepper", "extras" : "freshly ground"},
+    {"measurement" : "taste", "amount" : 1, "item" : "Mint", "extras" : "garnish"},
+    {"measurement" : "taste", "amount" : 1, "item" : "Basil", "extras" : "Chopped, garnish"},
+    {"measurement" : "tsp", "amount" : 2, "item" : "Curry Powder"},
+    {"measurement" : "can", "amount" : 1, "item" : "Unsweetened Coconut Milk", "extras" : "1 1/2 to 2 cups"},
+    {"measurement" : "cup", "amount" : 1, "item" : "Tomato", "extras" : "peeled, seeded and diced, canned is fine; cut up and drain before using"},
+    {"measurement" : "lbs", "amount" : 1.5, "item" : "Chicken", "extras" : "boneless chicken or peeled shrimp, cut into 3/4- to 1-inch chunks"}
+]
+}

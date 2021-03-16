@@ -1,0 +1,4 @@
+outputData/*.csv
+.vscode
+__pycache__
+env_JsonSchemaExample
