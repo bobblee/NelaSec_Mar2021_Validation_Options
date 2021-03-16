@@ -4,10 +4,10 @@ import os
 import great_expectations as ge 
 
 # Ensure correct Working Directory
-print(os.getcwd())
-path = Path('NewThoughts')
-os.chdir(path)
-print(os.getcwd())
+#print(os.getcwd())
+#path = Path('NewThoughts')
+#os.chdir(path)
+#print(os.getcwd())
 
 df = ge.read_csv('outputData/good_ingre.csv')
 df = df[['name','measurement','amount','item','extras']]

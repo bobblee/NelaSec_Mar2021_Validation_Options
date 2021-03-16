@@ -1,6 +1,6 @@
 import json
-from pathlib import Path
-import os
+#from pathlib import Path
+#import os
 import pandas as pd
 from jsonschema import Draft7Validator
 
@@ -113,10 +113,10 @@ class FormatData():
 if __name__ == '__main__':
 
     # Ensure correct Working Directory
-    print(os.getcwd())
-    path = Path('NewThoughts')
-    os.chdir(path)
-    print(os.getcwd())
+    #print(os.getcwd())
+    #path = Path('NewThoughts')
+    #os.chdir(path)
+    #print(os.getcwd())
 
     json_file = 'inputData/recipe_example_list.json'
     #json_file = 'inputData/recipe_example_dict.json'
