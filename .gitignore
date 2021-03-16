@@ -1,4 +1,4 @@
-outputData/*.csv
+*.csv
 .vscode
 __pycache__
 env_JsonSchemaExample
